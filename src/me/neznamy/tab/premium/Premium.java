@@ -21,7 +21,7 @@ public class Premium {
 	public static boolean allignTabsuffix;
 
 	public static boolean is() {
-		return false;
+		return true;
 	}
 
 	@SuppressWarnings("unchecked")
